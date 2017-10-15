@@ -1,0 +1,14 @@
+Continuous delivery automates the entire software release process
+With continuous deployment changes are deployed to a production environment automatically without the approval from a developer
+
+Continuous delivery is sometimes confused with continuous deployment.
+Continuous deployment means that every change is automatically deployed to production.
+Continuous delivery means that ( you are able to do frequent deployments )
+
+the team ensures every change can be deployed to production but may choose not to do it, usually due to business reasons.
+Continuous delivery tools: bamboo (atlassian) and jenkins
+Benefits of continuous delivery:
+Automate the entire software release process
+Improve developer productivity
+Find and address bugs
+Deliver updates faster
